@@ -15,7 +15,7 @@
 
 ## 🌐 Live Demo
 
-🔗 Coming Soon... (Deploy on Vercel and add link here)
+🔗 portfolio182.vercel.app
 
 ---
 
