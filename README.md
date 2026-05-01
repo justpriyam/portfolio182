@@ -1,21 +1,66 @@
-<<<<<<< HEAD
-# Priyam Gupta — Personal Portfolio Website
+<h1 align="center">✨ Priyam Gupta | Developer Portfolio ✨</h1>
 
-A clean, modern portfolio website built to showcase my skills, projects and journey as a Computer Science undergraduate.  
+<p align="center">
+  🚀 A modern, responsive, and visually stunning personal portfolio built using cutting-edge web technologies.
+</p>
 
-## 🔹 About  
-I’m a B.Tech CSE student (Graphic Era Hill University, Bhimtal, GPA: 8.85) with a strong foundation in Data Structures, Algorithms, OOP, and Web & AI-based development. I’m passionate about building real-world, scalable software that solves meaningful problems.
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react" />
+</p>
 
-## 🛠️ What’s Inside  
-- A list of technical skills: C, C++, Java, JavaScript, HTML, CSS, along with tools like Git, VS Code, MySQL, React, Node.js.  
-- Featured projects ranging from web apps and algorithm visualizations to a computer-vision–powered gesture pointer. Each project is accompanied by code links (and live demo when available).  
-- Details on internships, leadership/volunteer roles (e.g. Virtual Intern at CodSoft, Managing Director of Astroverse Club, NSS volunteer), academic credentials, and certifications.  
-- Contact information: email, phone number, and links to social/professional profiles — making it easy for collaborators or recruiters to get in touch.  
+---
 
-## 📈 Why This Portfolio?  
-This portfolio is not just a static resume — it’s a reflection of my skills, passions, and journey. It aims to present real-world projects, technical abilities, and a spirit of learning and growth.  
+## 🌐 Live Demo
 
-Feel free to explore the code, try out demos, or get in touch if you’d like to collaborate!
-=======
-# Modern_Portfolio
->>>>>>> ce004b8c4b426a4b0a2d98ca9b9ce53c6786aad4
+🔗 Coming Soon... (Deploy on Vercel and add link here)
+
+---
+
+## 🧑‍💻 About Me
+
+Hey! I'm **Priyam Gupta**, a passionate **B.Tech Computer Science Engineering student** from Graphic Era Hill University.
+
+💡 I love building real-world projects, solving problems, and creating clean & impactful user experiences.
+
+---
+
+## ✨ Features
+
+🚀 Fully responsive design  
+🎨 Clean & modern UI/UX  
+📂 Project showcase section  
+📄 Resume integration  
+⚡ Fast performance (Next.js)  
+🌙 Dark/Light theme (if added)  
+📱 Mobile-friendly layout  
+💼 Recruiter-ready structure  
+
+---
+
+## 🛠️ Tech Stack
+
+| Technology | Usage |
+|-----------|------|
+| ⚡ Next.js | Framework |
+| 🎯 TypeScript | Type Safety |
+| 🎨 Tailwind CSS | Styling |
+| ⚛️ React | UI Components |
+| 🔧 Git & GitHub | Version Control |
+
+---
+
+## 📂 Project Structure
+
+```bash
+Modern_Portfolio/
+├── app/            # Main routing & pages
+├── components/     # Reusable UI components
+├── data/           # Static data (projects, skills)
+├── hooks/          # Custom hooks
+├── lib/            # Utility functions
+├── public/         # Assets & images
+├── Priyam_Gupta_Resume.pdf
+└── README.md
