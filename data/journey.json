@@ -1,0 +1,32 @@
+{
+  "items": [
+    {
+      "id": "default-1",
+      "title": "Graphic Era Hill University",
+      "description": "Bhimtal Campus, where I pursue my B.Tech in CSE.",
+      "imagePath": "/images/campus/517ERg9k-gehu-btl-2-1-jpg.webp",
+      "createdAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "default-2",
+      "title": "Campus View",
+      "description": "Scenic views and greenery around the university.",
+      "imagePath": "/images/campus/bhimtal-gallery-7.webp",
+      "createdAt": "2026-01-02T00:00:00.000Z"
+    },
+    {
+      "id": "default-3",
+      "title": "Lab Facilities",
+      "description": "Modern computing labs and cloud-ready infrastructure.",
+      "imagePath": "/images/campus/WhatsApp Image 2026-05-01 at 1.04.12 PM.jpeg",
+      "createdAt": "2026-01-03T00:00:00.000Z"
+    },
+    {
+      "id": "journey-1777622584928-4lg3o9",
+      "title": "winner",
+      "description": "",
+      "imagePath": "/images/journey/journey-1777622584928-4lg3o9.jpg",
+      "createdAt": "2026-05-01T08:03:04.934Z"
+    }
+  ]
+}
